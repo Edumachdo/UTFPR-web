@@ -1,0 +1,31 @@
+li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+.container{
+	padding: 10px 98px
+}
+
+.flex{
+	display: flex;
+}
+
+.logo{
+	width: 10%;
+}
+
+.logo>a>img{
+	width: 100%;
+}
+
+.menu{
+	width: 70%;
+}
+
+.m-10{
+	margin-right: 10px; 
+}
